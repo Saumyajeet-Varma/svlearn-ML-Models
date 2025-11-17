@@ -6,13 +6,37 @@ The goal of this repository is to deeply understand the math, logic, and interna
 
 ## Repository Structure
 
-> Soon will update
+```md
+svlearn-ML-Models/
+|
+├── svlearn/
+|   |
+|   ├── __init__.py
+|   |
+|   ├── cluster/
+|   |   |
+|   |   ├── __init__.py
+|   |   ├── agglomerative_clustering.py
+|   |   └── k_means.py
+|   |
+|   └── linear_model/
+|       |
+|       ├── __init__.py
+|       ├── linear_regression.py
+|       ├── logistic_regression.py
+|       └── perceptron.py
+|
+├── .gitignore
+├── README.md
+└── requirements.txt
+```
 
 ## Algorithms Implemented
 
 ### Supervised Learning
 - Linear Regression
 - Logistic Regression
+- Perceptron
 
 ### Unsupervised Learning
 - KMeans

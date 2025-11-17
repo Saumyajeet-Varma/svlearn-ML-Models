@@ -14,6 +14,9 @@ The goal of this repository is to deeply understand the math, logic, and interna
 - Linear Regression
 - Logistic Regression
 
+### Unsupervised Learning
+- KMeans
+
 ## Contributing
 
 Contributions are welcome!
@@ -22,7 +25,6 @@ If you want to improve code, documentation, or add new algorithms:
 
 ```
 fork → create a branch → submit PR
-
 ```
 
 ## Support

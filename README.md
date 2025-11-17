@@ -16,6 +16,7 @@ The goal of this repository is to deeply understand the math, logic, and interna
 
 ### Unsupervised Learning
 - KMeans
+- Agglomerative Clustering
 
 ## Contributing
 

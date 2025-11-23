@@ -19,16 +19,23 @@ svlearn-ML-Models/
 |   |   ├── agglomerative_clustering.py
 |   |   └── k_means.py
 |   |
-|   └── linear_model/
+|   ├── linear_model/
+|   |   |
+|   |   ├── __init__.py
+|   |   ├── linear_regression.py
+|   |   ├── logistic_regression.py
+|   |   └── perceptron.py
+|   |
+|   └── neighbors/
 |       |
 |       ├── __init__.py
-|       ├── linear_regression.py
-|       ├── logistic_regression.py
-|       └── perceptron.py
+|       ├── knn_classifier.py
+|       └── knn_regressor.py
 |
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+
 ```
 
 ## Algorithms Implemented
@@ -37,6 +44,7 @@ svlearn-ML-Models/
 - Linear Regression
 - Logistic Regression
 - Perceptron
+- KNN (Classifier and Regressor)
 
 ### Unsupervised Learning
 - KMeans
